@@ -1,0 +1,20 @@
+{
+  "name": "masterdocker_p1",
+  "version": "1.0.0",
+  "description": "Proyecto para probar la automatización de despliegues y pruebas en dockercompose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edeljose/masterdocker_p1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edeljose/masterdocker_p1/issues"
+  },
+  "homepage": "https://github.com/edeljose/masterdocker_p1#readme"
+}
