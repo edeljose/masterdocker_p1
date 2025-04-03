@@ -4,7 +4,9 @@
   "description": "Proyecto para probar la automatización de despliegues y pruebas en dockercompose",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
